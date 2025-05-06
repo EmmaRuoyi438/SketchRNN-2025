@@ -14,5 +14,5 @@ This project adapts TensorFlow 1.x code to run in a modern TensorFlow 2.x enviro
 
 - Trained model: KanjiVG vector character set
 - Framework: TensorFlow 2.x (with `tf.compat.v1`)
-- Platform: Runs in Kaggle notebooks or local environment
+- Platform: Kaggle notebook
 - Output: SVG sketches, latent vector interpolation grids
